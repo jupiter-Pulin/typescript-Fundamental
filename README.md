@@ -1,6 +1,5 @@
 
-# TypeScript 快速上手
-[🪩 禹神：三小时快速上手TypeScript，TS速通教程_哔哩哔哩_bilibili](https://www.bilibili.com/video/BV1YS411w7Bf/?spm_id_from=333.1007.top_right_bar_window_history.content.click&vd_source=eec8d29cc9562259bc3afddcb56823bd)
+
 
 ## ⼀、TypeScript 简介
 - 1. TypeScript 由微软开发,是基于 JavaScript 的⼀个扩展语⾔。
