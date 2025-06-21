@@ -1,0 +1,4 @@
+todo：wallet/src/types/chain-type.dto.ts:
+export const Address = RuleType.string().allow(''); // TODO: Address and AssetAddress      =》这个目前不做是因为 ，把这个逻辑交给了service去请求valdataAddress了。
+export const Timestamp = UInteger; // TODO: .less()
+export const TimestampMs = UInteger; // TODO: .less()
